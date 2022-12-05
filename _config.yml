@@ -1,8 +1,8 @@
 title: BLOGGGGGGG
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: "hayeonggyeong.github.io/blog_pf/"
-baseurl:"/blog_pf"
+url: "hayeonggyeong.github.io/blog_pf"
+baseurl:"blog_pf"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
