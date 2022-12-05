@@ -1,7 +1,7 @@
 title: BLOGGGGGGG
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://blog_pf.github.io
+url: "hayeonggyeong.github.io/blog_pf/"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -15,11 +15,11 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: /index.html
+    url: blog_pf/index.html
   - title: About
-    url: /about
+    url: blog_pf/about
   - title: Contact
-    url: /contact
+    url: blog_pf/contact
 
 social:
   github: brianmaierjr
