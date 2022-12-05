@@ -16,11 +16,11 @@ paginate: 5
 
 navigation:
   - title: Home
-    url: blog_pf/index.html
+    url: index.html
   - title: About
-    url: blog_pf/about
+    url: about
   - title: Contact
-    url: blog_pf/contact
+    url: contact
 
 social:
   github: brianmaierjr
