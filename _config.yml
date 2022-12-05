@@ -32,3 +32,5 @@ google_analytics: "UA-58263416-1"
 
 disqus:
     shortname: brianmaierjr
+
+remote_theme : brianmaierjr/long-haul
